@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faria Rafique.</h1>
-<h3 align="center">A student at PUCIT Lahore, passionate about web development and eager to learn and contribute to the tech world. This is my GitHub playground where I showcase my projects, experiments, and learning journey.</h3>
+<h3 align="center">I'm an 8th-semester IT student passionate about MERN stack development. Experienced in HTML, CSS, JavaScript, and React, with basic knowledge of ML, Java, Python, C++, and C. Always eager to learn and explore new technologies in the ever-evolving world of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariarafique27&label=Profile%20views&color=0e75b6&style=flat" alt="fariarafique27" /> </p>
 
